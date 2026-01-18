@@ -12,7 +12,7 @@
     background-size: cover;
   }
   .bg-banners {
-    background-image: url('/images/banner.png');
+    background-image: url('../images/banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.712); /* 20% dark overlay */
